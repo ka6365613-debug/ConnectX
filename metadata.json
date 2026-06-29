@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Clone",
+  "description": "An interactive, feature-rich social media platform with stories, immersive reels, dynamic post creation, and AI companions for direct messaging and creative content generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
